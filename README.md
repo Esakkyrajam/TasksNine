@@ -22,3 +22,8 @@
 ## Employees whose name has ‘T’ as the last letter
 
 ![image](https://github.com/user-attachments/assets/f4b7cd14-d620-49f5-b641-28350a397855)
+
+## JDBC Program to Insert Data
+
+![image](https://github.com/user-attachments/assets/2535f4ab-b504-4b62-b0ab-eb5870c6bfed)
+
