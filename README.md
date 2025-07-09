@@ -27,3 +27,46 @@
 
 ![image](https://github.com/user-attachments/assets/2535f4ab-b504-4b62-b0ab-eb5870c6bfed)
 
+### MongoDB
+
+## Find all the information about each product
+
+![image](https://github.com/user-attachments/assets/82ce6add-142d-494e-8d1b-e4f1dd9b849c)
+
+## Find the product price which are between 400 to 800
+
+![image](https://github.com/user-attachments/assets/06e9cbf8-0735-4dac-a1fa-1dacdf6f01fd)
+
+## Find the product price which are not between 400 to 600
+
+![image](https://github.com/user-attachments/assets/414a3383-cf2c-47d9-a2bc-576f27e99b9f)
+
+## List four products with price greater than 500
+
+![image](https://github.com/user-attachments/assets/a7be4ee3-f93e-49a9-912f-58b5e4d58fc0)
+
+## Find product name and material of each product
+
+![image](https://github.com/user-attachments/assets/e0837f83-5b07-428d-ba78-986cd488a37d)
+
+## Find the product with a row id of "10"
+
+![image](https://github.com/user-attachments/assets/a22676f4-c066-48c6-963f-1d9a2c3e38a9)
+
+## Find only the product name and product material
+
+![image](https://github.com/user-attachments/assets/81d0b481-0185-414a-9c53-3737d1b129b3)
+
+## Find all products where product material contains "soft" (case-insensitive)
+
+![image](https://github.com/user-attachments/assets/a5a282a9-5cf8-4dc0-b8c6-b795b583af09)
+
+## Find product with product_color = "indigo" and product_price = 492.00
+
+![image](https://github.com/user-attachments/assets/13965d0e-7110-41d4-942b-fa8e35eeac25)
+
+## Delete products with product price = 28
+
+![image](https://github.com/user-attachments/assets/5fe81e9d-5852-4b63-baf7-7fbad88553fc)
+
+
